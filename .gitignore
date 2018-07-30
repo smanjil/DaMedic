@@ -1,2 +1,4 @@
 damedicenv/
 __pycache__/
+.pytest_cache/
+output_file/

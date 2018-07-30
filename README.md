@@ -16,3 +16,7 @@
 4. main.py is the main entry file
 	# python main.py  
 	##### this reads the two file from input_files/, does the join and creates a new json file in output_file/ #####
+
+5. Run tests from the main directory (written using pytest module)
+	# py.tests
+	##### one test case for two dataframe joining #####
